@@ -13,10 +13,10 @@
 	- Módulo IO-Link: SM 1278, 4 X IO-LINK MASTER;
 - Lista de entradas (as entradas dessa estação foram modificadas e não são compatíveis com o projeto original da FESTO):
     - %I0.0: Peça ao início da esteira;
+    - %I0.1: Sensor de peça na pilha;
     - %I0.2: Sem peça ao final da esteira;
     - %I0.4: Sensor de pistão retraído;
     - %I0.5: Sensor de pistão avançado;
-    - %I0.6: Sensor de peça na pilha;
     - %I8.0: Botão verde (start);
     - %I8.1: Botão vermelho (stop);
     - %I8.2: Botão cinza (reset);
