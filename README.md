@@ -19,8 +19,8 @@
     - %I0.5: Sensor de pistão avançado;
     - %I8.0: Botão verde (start);
     - %I8.1: Botão vermelho (stop);
-    - %I8.2: Botão cinza (reset);
-    - %I8.3: Plug externo;
+    - %I8.2: Chave Auto/Man;
+    - %I8.3: Botão cinza (reset);
     - %I8.4: Plug externo;
     - %I8.5: Plug externo;
     - %I8.6: Plug externo;
@@ -55,8 +55,8 @@
     - %I0.6: Peça metálica;
     - %I8.0: Botão verde (start);
     - %I8.1: Botão vermelho (stop);
-    - %I8.2: Botão cinza (reset);
-    - %I8.3: Plug externo;
+    - %I8.2: Chave Auto/Man;
+    - %I8.3: Botão cinza (reset);
     - %I8.4: Plug externo;
     - %I8.5: Plug externo;
     - %I8.6: Plug externo;
@@ -94,8 +94,8 @@
     - %I0.7: Peça detectada (sensor garfo);
     - %I8.0: Botão verde (start);
     - %I8.1: Botão vermelho (stop);
-    - %I8.2: Botão cinza (reset);
-    - %I8.3: Plug externo;
+    - %I8.2: Chave Auto/Man;
+    - %I8.3: Botão cinza (reset);
     - %I8.4: Plug externo;
     - %I8.5: Plug externo;
     - %I8.6: Plug externo;
